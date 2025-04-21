@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inputcontrol2</string>
+    <string name="hint_phone">Masukkan Nomor Telepon</string>
+    <string name="btn_date">Pilih Tanggal</string>
+    <string name="btn_alert">Tampilkan Alert</string>
+    <string name="btn_toast">Tampilkan Toast</string>
+</resources>
